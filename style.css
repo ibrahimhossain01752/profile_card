@@ -59,21 +59,24 @@
   .images_1{
     width:500px;
     height: 400px;
+    
   }
   .images_2{
     width:250px;
     height: 200px;
+    
 
   }
   .images_3{
     width:250px;
     height: 200px;
-    margin-right: 65px;
+    margin-right: 40px;
+    padding-bottom: -5px;
   
     
   }
   .box_2{
-    margin-left:-53px ;
+    margin-left:-51px ;
   }
   .msg{
     margin-left: -20px;
